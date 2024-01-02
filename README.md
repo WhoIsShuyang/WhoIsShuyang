@@ -8,7 +8,7 @@
 - <b>Traffic analysis during reverse TCP shell using SIEM Splunk (Kali, nmap, msfvenom, splunk)</b>
 
 
-<h4> 🤳 My Linkedin Page: /</h4> 
+<h4> 🤳 My Linkedin Page: </h4> 
 
 [<img align="left" alt="Shuyang Chen | LinkedIn" width="22px" src="https://www.vhv.rs/file/max/8/80808_linkedin-logo-white-png.png" />][linkedin]
 
