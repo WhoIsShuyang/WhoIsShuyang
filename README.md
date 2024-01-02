@@ -1,6 +1,8 @@
-<h1>Hi, I'm Shuyang! <br/><a href="https://github.com/WhoIsShuyang">Technical Support Professional</a>, <a href="https://www.linkedin.com/in/shuyang123//">Cybersecurity NewGrad</a>
+<h1>Hi, I'm Shuyang! <br/>
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>I am a cybersecurity newgrad&technical support professional, who loves learning about Information Security! </h2><a href="https://www.linkedin.com/in/shuyang123//">My Linkedin</a>
+
+<h3>👨‍💻 Cybersecurity Projects:</h3>
 
 - <b>Traffic analysis during reverse TCP shell using SIEM Splunk (Kali, nmap, msfvenom, splunk)</b>
 
