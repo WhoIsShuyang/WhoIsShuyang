@@ -1,6 +1,6 @@
 <h1>Hi, I'm Shuyang! <br/>
 
-<h2>I am a cybersecurity newgrad&technical support professional, who loves learning about Information Security!
+<h2>I am a cybersecurity newgrad&technical support professional, who loves learning about Information Security!</h2>
 [<img align="left" alt="Shuyang Chen | LinkedIn" width="22px" src="https://www.vhv.rs/file/max/8/80808_linkedin-logo-white-png.png" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/shuyang123/
@@ -9,7 +9,7 @@
 
 - <b>Traffic analysis during reverse TCP shell using SIEM Splunk (Kali, nmap, msfvenom, splunk)</b>
 
-<h3> 🤳 Connect with me:</h2>
+<h4> 🤳 Connect with me:</h4>
 
 [<img align="left" alt="Shuyang Chen | LinkedIn" width="22px" src="https://www.vhv.rs/file/max/8/80808_linkedin-logo-white-png.png" />][linkedin]
 
