@@ -2,10 +2,6 @@
 
 <h2>I am a cybersecurity newgrad&technical support professional, who loves learning about Information Security!</h2>
 
-[<img align="left" alt="Shuyang Chen | LinkedIn" width="22px" src="https://www.vhv.rs/file/max/8/80808_linkedin-logo-white-png.png" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/shuyang123/
-
 
 <h3>👨‍💻 Cybersecurity Projects:</h3>
 
@@ -13,6 +9,7 @@
 
 
 <h4> 🤳 Connect with me:</h4>
+My Linkedin Page
 
 [<img align="left" alt="Shuyang Chen | LinkedIn" width="22px" src="https://www.vhv.rs/file/max/8/80808_linkedin-logo-white-png.png" />][linkedin]
 
