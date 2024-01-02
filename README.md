@@ -3,7 +3,6 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Traffic analysis during reverse TCP shell using SIEM Splunk (Kali, nmap, msfvenom, splunk)</b>
-  - [Traffic analysis during reverse TCP shell using SIEM Splunk]
 
 <h2> 🤳 Connect with me:</h2>
 
