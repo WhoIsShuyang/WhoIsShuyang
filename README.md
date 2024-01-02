@@ -8,11 +8,9 @@
 - <b>Traffic analysis during reverse TCP shell using SIEM Splunk (Kali, nmap, msfvenom, splunk)</b>
 
 
-<h4> 🤳 My Linkedin Page:</h4>
+<h4> 🤳 My Linkedin Page: [<img align="left" alt="Shuyang Chen | LinkedIn" width="22px" src="https://www.vhv.rs/file/max/8/80808_linkedin-logo-white-png.png" />][linkedin]
 
-[<img align="left" alt="Shuyang Chen | LinkedIn" width="22px" src="https://www.vhv.rs/file/max/8/80808_linkedin-logo-white-png.png" />][linkedin]
-
-[linkedin]: https://www.linkedin.com/in/shuyang123/
+[linkedin]: https://www.linkedin.com/in/shuyang123/</h4> 
 
 <!--
 **WhoIsShuyang/WhoIsShuyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
